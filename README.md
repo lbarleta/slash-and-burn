@@ -1,4 +1,4 @@
-#Modeling Slash-and-burn Agriculture in Colonial Brazil
+# Modeling Slash-and-burn Agriculture in Colonial Brazil
 
 *Leonardo Barleta, Evan Yong-Seok Kim, Isabela Barros David Rodrigues*<br>
 Center for Spatial and Textual Analysis (CESTA), Stanford University
